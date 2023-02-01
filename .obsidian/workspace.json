@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting up Git Sync.md",
+                "file": "Config/Setting up Git Sync.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting up Git Sync.md",
+                "file": "Config/Setting up Git Sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting up Git Sync.md",
+                "file": "Config/Setting up Git Sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting up Git Sync.md"
+                "file": "Config/Setting up Git Sync.md"
               }
             }
           }
@@ -146,6 +146,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e16116d7892d439e",
+  "active": "36139acec2d48f03",
   "lastOpenFiles": []
 }
