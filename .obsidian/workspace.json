@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "359ba6ea82f38525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Data Concepts/Pronouns and Gender.md",
-                "mode": "source",
+                "file": "Config/Setting up Git Sync.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Concepts/Pronouns and Gender.md",
+                "file": "Config/Setting up Git Sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Concepts/Pronouns and Gender.md",
+                "file": "Config/Setting up Git Sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Concepts/Pronouns and Gender.md"
+                "file": "Config/Setting up Git Sync.md"
               }
             }
           }
@@ -159,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "359ba6ea82f38525",
+  "active": "e16116d7892d439e",
   "lastOpenFiles": [
-    "Config/README.md",
+    "README.md",
+    "Areas/Data Concepts/Pronouns and Gender.md",
     "Config/Setting up Git Sync.md"
   ]
 }
