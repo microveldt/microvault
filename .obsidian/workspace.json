@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c75ed2e77b312dfe",
+        "id": "56722226b3fe2aff",
         "type": "tabs",
         "children": [
           {
-            "id": "e16116d7892d439e",
+            "id": "35404b8c81eabd01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Data Concepts/Pronouns and Gender.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "938492cfd4fdee59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/ROI in practice.md",
+                "file": "Areas/Data Strategy/CSF Data Strategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/ROI in practice.md",
+                "file": "Areas/Data Strategy/CSF Data Strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/ROI in practice.md",
+                "file": "Areas/Data Strategy/CSF Data Strategy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/ROI in practice.md"
+                "file": "Areas/Data Strategy/CSF Data Strategy.md"
               }
             }
           }
@@ -159,9 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36139acec2d48f03",
+  "active": "35404b8c81eabd01",
   "lastOpenFiles": [
     "Areas/Data Concepts/Pronouns and Gender.md",
+    "Areas/Data Strategy/CSF Data Strategy.md",
+    "Areas/ROI in practice.md",
     "Config/Setting up Git Sync.md",
     "README.md"
   ]
