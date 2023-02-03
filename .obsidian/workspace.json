@@ -128,6 +128,14 @@
                 "file": "Areas/Data Strategy/CSF Data Strategy.md"
               }
             }
+          },
+          {
+            "id": "18bf1c14ddcbd9ac",
+            "type": "leaf",
+            "state": {
+              "type": "toggl-report",
+              "state": {}
+            }
           }
         ]
       }
@@ -143,13 +151,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "35404b8c81eabd01",
   "lastOpenFiles": [
-    "Areas/Data Concepts/Pronouns and Gender.md",
+    "2023-02-02.md",
     "Areas/Data Strategy/CSF Data Strategy.md",
+    "Areas/Data Concepts/Pronouns and Gender.md",
     "Areas/ROI in practice.md",
     "Config/Setting up Git Sync.md",
     "README.md"

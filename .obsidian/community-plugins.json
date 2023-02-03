@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-toggl-integration",
+  "templater-obsidian"
 ]
