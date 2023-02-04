@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Data Strategy/CSF Data Strategy.md",
+                "file": "Resources/Setting up Git Sync.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Data Strategy/CSF Data Strategy.md",
+                "file": "Resources/Setting up Git Sync.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Data Strategy/CSF Data Strategy.md",
+                "file": "Resources/Setting up Git Sync.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Data Strategy/CSF Data Strategy.md"
+                "file": "Resources/Setting up Git Sync.md"
               }
             }
           },
@@ -155,13 +155,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35404b8c81eabd01",
+  "active": "36139acec2d48f03",
   "lastOpenFiles": [
-    "2023-02-02.md",
+    "2023-02-03.md",
     "Areas/Data Strategy/CSF Data Strategy.md",
+    "2023-02-02.md",
     "Areas/Data Concepts/Pronouns and Gender.md",
     "Areas/ROI in practice.md",
-    "Config/Setting up Git Sync.md",
+    "Resources/Setting up Git Sync.md",
     "README.md"
   ]
 }
