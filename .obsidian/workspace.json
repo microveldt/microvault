@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d54822430ddf7ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Areas/Finances.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/PARA Method.md",
+                "file": "2. Areas/Finances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resources/PARA Method.md",
+                "file": "2. Areas/Finances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resources/PARA Method.md"
+                "file": "2. Areas/Finances.md"
               }
             }
           },
@@ -163,8 +176,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6397dca10402b778",
+  "active": "2d54822430ddf7ec",
   "lastOpenFiles": [
+    "1. Projects/Office Reset by 10-1-23.md",
     "2. Areas/Finances.md",
     "2. Areas/CSF ROI.md",
     "2. Areas/Data Concepts/Pronouns and Gender.md",
@@ -177,7 +191,6 @@
     "0. INBOX",
     "3. Resources/Setting up Git Sync.md",
     "1. Projects/Mortgage by 10-27-23.md",
-    "1. Projects/Office Reset by 10-1-23.md",
     "3. Resources/Guitar.md",
     "Resources/Office setup",
     "1. Projects",
